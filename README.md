@@ -1,4 +1,4 @@
-# Trad-Teve: traditionell teve med python och vlc
+# Trad-Teve - traditionell teve med python och vlc
 
 ## Syfte
 Traditionell teve och radio att ha i bakgrunden är en rätt trevlig tanke ändå.
@@ -27,7 +27,7 @@ python main.py <filnamn>
 
 ## Att göra
 - [x] videofil kan spelas upp via vlc
-- [ ] videofiler kan spelas upp i följd
+- [x] videofiler kan spelas upp i följd
 - [ ] videofiler kan spelas upp enligt mönster som delvis beror på angett filträd
 - [ ] teve-tablå kan genereras och visas mellan avsnitt, med bakgrundsmusik
  
